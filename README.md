@@ -1,4 +1,20 @@
-# Dependable-task-api
-Software Dependability Project built using Java and Spring Boot.
+# Dependable Task API
+
+This project demonstrates software dependability concepts including testing, code coverage, mutation testing, formal specification, security analysis, and containerization.
+
 Author: Lorna Wanjiku
+
+## Key Features
+- Spring Boot REST API
+- Unit testing with JUnit & Mockito
+- Code coverage with JaCoCo
+- Mutation testing with PiTest
+- JML formal specifications
+- Security vulnerability analysis and mitigation
+- Dockerized deployment
+
+## Build & Run
+```bash
+mvn clean test
+docker build -t dependable-task-api .
 
