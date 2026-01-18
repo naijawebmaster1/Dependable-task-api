@@ -13,15 +13,18 @@ Author: Lorna Wanjiku
 - Security vulnerability analysis and mitigation
 - Dockerized deployment
 
-## Build & Run
+
+## ✅ Commands (Evidence)
+
 ```bash
 mvn clean test
 docker build -t dependable-task-api .
+
 
 ## 📄 Project Report
 
 This repository contains the full project report with methodology, results, and evidence.
 
-[View Full Project Report](docs/report/SOFTWARE_DEPENDABILITY_PROJECT_REPORT.pdf)
+[View Full Project Report](/Users/lornawanjiku/Dependable-task-api/docs/report/SOFTWARE_DEPENDABILITY_PROJECT_REPORT.pdf)
 
 
